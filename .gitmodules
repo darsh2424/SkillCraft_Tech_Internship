@@ -1,0 +1,12 @@
+[submodule "SCT_WD_1_Landing_Page"]
+	path = SCT_WD_1_Landing_Page
+	url = https://github.com/darsh2424/SCT_WD_1.git
+[submodule "SCT_WD_2_Stopwatch"]
+	path = SCT_WD_2_Stopwatch
+	url = https://github.com/darsh2424/SCT_WD_2.git
+[submodule "SCT_WD_3_Tic_Tac_Toe"]
+	path = SCT_WD_3_Tic_Tac_Toe
+	url = https://github.com/darsh2424/SCT_WD_3.git
+[submodule "SCT_WD_4_ToDo"]
+	path = SCT_WD_4_ToDo
+	url = https://github.com/darsh2424/SCT_WD_4.git
